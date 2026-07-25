@@ -88,6 +88,5 @@ npm run build
 
 ## Project notes
 
-- [Demo script](docs/DEMO-SCRIPT.md)
 - [Design](docs/plans/2026-07-25-agenttab-design.md)
 - [Implementation plan](docs/plans/2026-07-25-agenttab-implementation.md)
