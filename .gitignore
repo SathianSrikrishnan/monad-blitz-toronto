@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# local and hosted secrets
+.env
+.env.*
+!.env.example
+
+# test and build output
+coverage/
+playwright-report/
+test-results/
+artifacts/
+cache/
+
+# editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# logs
+*.log
+*.tsbuildinfo
+
+.vercel
