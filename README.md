@@ -13,6 +13,8 @@ Public app: [agenttab.sathian.ai](https://agenttab.sathian.ai)
 
 Presentation: [agenttab.sathian.ai/presentation](https://agenttab.sathian.ai/presentation)
 
+Demo access code: `1234` (Monad Testnet only; no real funds).
+
 The demo mission proposes four purchases:
 
 | Tool | Price | Decision |
